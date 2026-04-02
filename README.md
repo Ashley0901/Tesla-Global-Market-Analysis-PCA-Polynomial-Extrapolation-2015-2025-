@@ -29,7 +29,7 @@ The analysis was divided into the following methodological phases:
 * `tesla_deliveries_dataset_2015_2025.csv`: Original dataset used for the analysis.
 * `Propuesta_Tesla.pdf`: Formal technical report of the project formatted as an academic paper, including the theoretical mathematical foundation (Available in Spanish).
 
-## 👥 Team & Co-authors
+## Team & Co-authors
 This project was developed collaboratively as part of the *Computational Mathematical Methods for Data Science* course at IIMAS - UNAM (National Autonomous University of Mexico).
 
 ##  How to run this project locally
