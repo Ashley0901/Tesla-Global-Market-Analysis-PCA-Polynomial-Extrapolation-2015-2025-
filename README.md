@@ -29,8 +29,9 @@ The analysis was divided into the following methodological phases:
 * `tesla_deliveries_dataset_2015_2025.csv`: Original dataset used for the analysis.
 * `Propuesta_Tesla.pdf`: Formal technical report of the project formatted as an academic paper, including the theoretical mathematical foundation (Available in Spanish).
 
-## Team & Co-authors
-This project was developed collaboratively as part of the *Computational Mathematical Methods for Data Science* course at IIMAS - UNAM (National Autonomous University of Mexico).
+##  Project Context & Role
+This project was developed collaboratively as part of the *Computational Mathematical Methods for Data Science* course at IIMAS - UNAM (National Autonomous University of Mexico). Within this team setting, I served as the Lead Contributor, driving the end-to-end implementation of the project. My specific responsibilities and core contributions included leading the Data Wrangling, Exploratory Data Analysis (EDA), PCA modeling, KDE Density Analysis, and Polynomial Extrapolation. 
+
 
 ##  How to run this project locally
 1. Clone this repository: `git clone https://github.com/your-username/tesla-analysis-pca.git`
